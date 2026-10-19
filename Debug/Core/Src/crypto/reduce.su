@@ -1,0 +1,4 @@
+../Core/Src/crypto/reduce.c:15:9:pqcrystals_dilithium2_ref_montgomery_reduce	56	static
+../Core/Src/crypto/reduce.c:33:9:pqcrystals_dilithium2_ref_reduce32	24	static
+../Core/Src/crypto/reduce.c:50:9:pqcrystals_dilithium2_ref_caddq	16	static
+../Core/Src/crypto/reduce.c:65:9:pqcrystals_dilithium2_ref_freeze	16	static

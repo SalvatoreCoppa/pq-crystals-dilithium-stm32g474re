@@ -1,0 +1,7 @@
+../Core/Src/crypto/sign.c:23:5:crypto_sign_keypair	1
+../Core/Src/crypto/sign.c:121:5:crypto_sign_signature_internal	5
+../Core/Src/crypto/sign.c:280:5:crypto_sign_signature	3
+../Core/Src/crypto/sign.c:346:5:crypto_sign	2
+../Core/Src/crypto/sign.c:404:5:crypto_sign_verify_internal	6
+../Core/Src/crypto/sign.c:524:5:crypto_sign_verify	3
+../Core/Src/crypto/sign.c:567:5:crypto_sign_open	5
