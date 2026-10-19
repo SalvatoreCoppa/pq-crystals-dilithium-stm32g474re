@@ -1,0 +1,17 @@
+# Build folders
+Debug/
+Release/
+*.elf
+*.list
+*.map
+*.hex
+*.bin
+
+# STM32CubeIDE local configs
+.settings/
+.mxproject
+*.launch
+
+# OS files
+.DS_Store
+Thumbs.db
